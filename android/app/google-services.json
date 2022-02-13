@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "162589135334",
+    "project_id": "jtestapp-c1072",
+    "storage_bucket": "jtestapp-c1072.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162589135334:android:a67e90db42ccfaf78c0627",
+        "android_client_info": {
+          "package_name": "com.islandic.jobtest.jobtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162589135334-5rtt59nqu16a306goh15c8ikumcau0fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN48X9rW8ucvJZxtK3LElLkW9sUNxavrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162589135334-5rtt59nqu16a306goh15c8ikumcau0fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
